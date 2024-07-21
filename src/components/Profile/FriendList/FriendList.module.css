@@ -1,0 +1,25 @@
+.list {
+  margin-top: 50px;
+  display: flex;
+  margin-left: 100px;
+  justify-content: space-between;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 200px;
+  margin-left: 6px;
+}
+
+.text {
+  color: red;
+}
+
+.status {
+  color: green;
+}
