@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+  padding: 100px 0px;
 }
 
 h1,
@@ -27,8 +28,7 @@ img {
 
 .card {
   width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 300px;
   padding: 20px;
   border: 1px solid #e4e4e4;
   border-radius: 8px;
